@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Philippine</h1>
+<h1 align="center">Hi :star2:, I'm Philippine</h1>
 <h3 align="center">Recent graduate from @lewagon coding bootcamp in Montreal (#846)</h3>
 
 - 🔭 I’m currently working on **brunchtime**
 
 - 🌱 I’m currently learning **React, Ruby on Rails**
-
-- 📫 How to reach me **philippinelorrain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
