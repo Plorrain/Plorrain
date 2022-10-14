@@ -17,4 +17,4 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plorrain&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
