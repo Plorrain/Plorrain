@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- I can talk about TV shows for hours
+- I can talk about TV shows and movies for hours 📺 🎥
 
 - To my surprise I can call myself a jogger 🏃🏻‍♀️
 
