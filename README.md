@@ -1,9 +1,13 @@
-<h1 align="center">Hi :relieved:, I'm Philippine</h1>
+<h1 align="center">Hi there :relieved:, I'm Philippine</h1>
 <h3 align="center">Graduate from @lewagon coding bootcamp in Montreal (#846)</h3>
 
 - 🔭 I built **www.brunchtime.live** with my teammates from Le Wagon
 
 - 🌱 I’m currently learning **React**
+
+- I can talk about TV shows for hours
+
+- To my surprise I can call myself a jogger 🏃🏻‍♀️
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plorrain&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
