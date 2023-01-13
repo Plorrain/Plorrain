@@ -1,7 +1,7 @@
 <h1 align="center">Hi there :relieved:, I'm Philippine</h1>
 <h3 align="center">Graduate from @lewagon coding bootcamp in Montreal (#846)</h3>
 
-- 🔭 I built **www.brunchtime.live** with my teammates from Le Wagon
+<!-- - 🔭 I built **www.brunchtime.live** with my teammates from Le Wagon -->
 
 - 🌱 I’m currently learning **React**
 
